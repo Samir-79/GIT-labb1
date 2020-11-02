@@ -1,1 +1,11 @@
-textfile
+commit 597de315d6cf9982e2277bc66386da99a9757146
+Author: unknown <samirovsky79@gmail.com>
+Date:   Mon Nov 2 23:46:01 2020 +0100
+
+    textfile created
+
+commit 7eb6e7e25f41a4ed9503e639716a6be7430377cc
+Author: unknown <samirovsky79@gmail.com>
+Date:   Mon Nov 2 23:39:10 2020 +0100
+
+    README and getignore files created
